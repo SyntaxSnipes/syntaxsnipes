@@ -4,9 +4,9 @@
 I'm Aayan (or syntaxsnipes on the interwebs). I am 15 years old. I am a student software developer, specializing in Front-End Web-Development, though I aspire to be a Full-Stack. I am a second year GCSE student at GEMS Founders School Al Barsha, in Dubai. I am into making websites and software that I personally think are super cool and neat, and I also like to learn and use new languages and technologies to help me along the way! In my free time, I like to play video games, and do Math or Physics. You can find my online curriculum vitae/portfolio at aayanpathan.com.
 
 ## Skills and Experience
-💻 HTML, CSS, JS
-⚛️ React
-🐍 Python
+- 💻 HTML, CSS/SCSS, JS
+- ⚛️ React
+- 🐍 Python
 
 ## Extra Info
 - 🔭 I’m currently working on my GCSEs 
