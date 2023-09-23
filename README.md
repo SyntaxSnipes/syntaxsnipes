@@ -13,10 +13,10 @@ I'm Aayan (or syntaxsnipes on the interwebs). I am 15 years old. I am a student 
 - 🌱 I’m currently learning React 
 - 💬 Ask me about which Visual Studio Code theme is the best 
 - ⚡ Fun fact: 0.999... is equal to 1 
-
+##
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SyntaxSnipes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/syntaxsnipes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/syntaxsnipes.map/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/syntaxsnipes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aayanpathan.com)  
-
+##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyntaxSnipes)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SyntaxSnipes&show_icons=true)  
