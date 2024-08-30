@@ -1,7 +1,7 @@
 # Mohammed Aayan Pathan
 ![I am a Front-End Web-Developer](https://github.com/SyntaxSnipes/syntaxsnipes/blob/main/Aayan's%20High-Res%20Banner.png)
 
-I'm Aayan (or syntaxsnipes on the interwebs). I am 15 years old. I am a student software developer, specializing in Front-End Web-Development, though I aspire to be a Full-Stack when I finish learning React at an intermediate level. I am a second year GCSE student at GEMS Founders School Al Barsha, in Dubai. I am into making websites and software that I personally think are super cool and neat, and I also like to learn and use new languages and technologies to help me along the way! In my free time, I like to play video games, and do Math or Physics. You can find my online curriculum vitae/portfolio at [aayanpathan.com](https://aayanpathan.com).
+I'm Aayan (or syntaxsnipes on the interwebs). I am 16 years old. I am a student software developer, specializing in Front-End Web-Development, though I aspire to be a Full-Stack when I finish learning React at an intermediate level. I am a first year A Level student at GEMS Founders School Al Barsha, in Dubai. I am into making websites and software that I personally think are super cool and neat, and I also like to learn and use new languages and technologies to help me along the way! In my free time, I like to play video games, and do Math or Physics. You can find my online curriculum vitae/portfolio at [aayanpathan.com](https://aayanpathan.com).
 
 ## Skills and Experience
 - 💻 HTML, CSS/SCSS, JS
@@ -9,7 +9,7 @@ I'm Aayan (or syntaxsnipes on the interwebs). I am 15 years old. I am a student 
 - 🐍 Python
 
 ## Extra Info
-- 🔭 I’m currently working on my GCSEs 
+- 🔭 I’m currently working on my A Levels 
 - 🌱 I’m currently learning React 
 - 💬 Ask me about which Visual Studio Code theme is the best 
 - ⚡ Fun fact: 0.999... is equal to 1 
