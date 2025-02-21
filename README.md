@@ -21,7 +21,5 @@ I'm Aayan (or syntaxsnipes on the interwebs). I am 16 years old. I am a student 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SyntaxSnipes&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/SyntaxSnipes)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SyntaxSnipes)  
 
