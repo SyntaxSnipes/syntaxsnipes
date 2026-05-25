@@ -1,4 +1,4 @@
-# Aayan Pathan
+# Hi, I'm Mohammed Aayan Pathan
 
 Full-stack developer based in Dubai. I build web applications — mostly things I find genuinely interesting or useful. Currently finishing my A-levels (Further Maths, Physics, CS) and heading off to study Computer Science.
 
@@ -22,4 +22,3 @@ Previously a Junior Engineering Associate at Voxa, a Bahrain-based public speaki
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyntaxSnipes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-stats-extended.vercel.app/api?username=SyntaxSnipes&hide_border=true)
-![GitHub streak](https://streak-stats.demolab.com/?user=SyntaxSnipes&hide_border=true)
