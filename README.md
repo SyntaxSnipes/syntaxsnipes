@@ -21,5 +21,5 @@ Previously a Junior Engineering Associate at Voxa, a Bahrain-based public speaki
 ##
 
 [![Top Langs](https://github-readme-stats-silk-nine-28.vercel.app/api/top-langs/?username=SyntaxSnipes&layout=compact&hide_border=true&count_private=true)](https://github.com/SyntaxSnipes)
-![GitHub stats](https://github-readme-stats-silk-nine-28.vercel.app/api?username=SyntaxSnipes&show_icons=true&hide_border=true&count_private=true)
+![GitHub stats](https://github-readme-stats-silk-nine-28.vercel.app/api?username=SyntaxSnipes&show_icons=true&hide_border=true&count_private=true&hide_rank=true)
 ![GitHub streak](https://streak-stats.demolab.com/?user=SyntaxSnipes&hide_border=true)
