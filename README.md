@@ -1,26 +1,25 @@
-# Mohammed Aayan Pathan
-![I am a Full-Stack Web-Developer](https://github.com/SyntaxSnipes/syntaxsnipes/blob/main/LinkedIn%20Banner.png)
+# Aayan Pathan
 
-I'm Aayan (or syntaxsnipes on the interwebs). I am 17 years old. I am a student software developer, specializing in web-dev, and currently in the process of learning the MERN stack. I am a first year A Level student at GEMS Founders School Al Barsha, in Dubai. I am into making websites and software that I personally think are super cool and neat, and I also like to learn and use new languages and technologies to help me along the way! In my free time, I like to play Badminton, Cycle, and do Math or Physics. You can find my online curriculum vitae/portfolio at [aayanpathan.com](https://aayanpathan.com).
+Full-stack developer based in Dubai. I build web applications — mostly things I find genuinely interesting or useful. Currently finishing my A-levels (Further Maths, Physics, CS) and heading off to study Computer Science.
 
-## Skills and Experience
-- 💻 HTML, CSS/SCSS, Tailwind, JS
-- ⚛️ React, NextJS
-- 🐍 Python
-- 🔥 Firebase, MySQL
+Previously a Junior Engineering Associate at Voxa, a Bahrain-based public speaking startup, where I worked on real product features in production.
 
-## Extra Info
-- 🔭 I’m currently working on my A Levels 
-- 🌱 I’m currently learning NextJS 
-- 💬 Ask me about which Visual Studio Code theme is the best 
-- ⚡ Fun fact: 0.999... is equal to 1 
+## Stack
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind, shadcn/ui
+- **Backend:** Node.js, Express, FastAPI, Python
+- **Databases:** MySQL, Firebase, Supabase
+- **Other:** Figma, Git, C++ (learning)
+
+## Projects
+- **FormulaMetric** — F1 driver performance analytics platform. Custom metrics built on population standard deviation, Z-score normalisation, and quartile-based trend analysis. React, Node/Express, MySQL, Jolpica API.
+- **Voxa Voice App** — Real-time voice training app with live transcription (AssemblyAI), AI speech feedback (OpenAI), and full Firebase auth/storage pipeline. Next.js, TypeScript, Firebase.
+- **TLSearch** — Semantic search engine for NASA space-biology datasets using vector embeddings and cosine similarity. Next.js frontend, FastAPI backend, Python.
+
+## Links
+[Website](https://aayanpathan.com) · [LinkedIn](https://linkedin.com/in/mohammed-aayan-pathan) · [GitHub](https://github.com/SyntaxSnipes)
+
 ##
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SyntaxSnipes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/syntaxsnipes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/syntaxsnipes.map/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/syntaxsnipes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aayanpathan.com)  
-##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyntaxSnipes)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SyntaxSnipes&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=SyntaxSnipes)  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyntaxSnipes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=SyntaxSnipes&hide_border=true)
+![GitHub streak](https://streak-stats.demolab.com/?user=SyntaxSnipes&hide_border=true)
