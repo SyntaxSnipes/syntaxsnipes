@@ -1,7 +1,7 @@
 # Hey, I'm Mohammed Aayan Pathan
 ![I am a Full-Stack Web-Developer](https://github.com/SyntaxSnipes/syntaxsnipes/blob/main/LinkedIn%20Banner.png)
 
-Full-stack developer based in Dubai. I build web applications — mostly things I find genuinely interesting or useful. Currently finishing my A-levels (Further Maths, Physics, CS) and heading off to study Computer Science.
+Full-stack developer based in Dubai. I build web applications, mostly things I find genuinely interesting or useful. Currently finishing my A-levels (Further Maths, Physics, CS) and heading off to study Computer Science at university.
 
 Previously a Junior Engineering Associate at Voxa, a Bahrain-based public speaking startup, where I worked on real product features in production.
 
@@ -21,6 +21,7 @@ Previously a Junior Engineering Associate at Voxa, a Bahrain-based public speaki
 
 ##
 
-[![Top Langs](https://github-readme-stats-silk-nine-28.vercel.app/api/top-langs/?username=SyntaxSnipes&layout=compact&hide_border=true&count_private=true)](https://github.com/SyntaxSnipes)
-![GitHub stats](https://github-readme-stats-silk-nine-28.vercel.app/api?username=SyntaxSnipes&show_icons=true&hide_border=true&count_private=true&hide_rank=true)
-![GitHub streak](https://streak-stats.demolab.com/?user=SyntaxSnipes&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SyntaxSnipes&theme=react-dark&hide_border=true&area=true&days=30)](https://github.com/SyntaxSnipes)
+
+[![Top Langs](https://github-readme-stats-silk-nine-28.vercel.app/api/top-langs/?username=SyntaxSnipes&layout=compact&hide_border=true&count_private=true&theme=dark)](https://github.com/SyntaxSnipes)
+![GitHub streak](https://streak-stats.demolab.com/?user=SyntaxSnipes&hide_border=true&theme=dark)
