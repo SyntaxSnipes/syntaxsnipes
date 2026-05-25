@@ -1,4 +1,5 @@
-# Hi, I'm Mohammed Aayan Pathan
+# Hey, I'm Mohammed Aayan Pathan
+![I am a Full-Stack Web-Developer](https://github.com/SyntaxSnipes/syntaxsnipes/blob/main/LinkedIn%20Banner.png)
 
 Full-stack developer based in Dubai. I build web applications — mostly things I find genuinely interesting or useful. Currently finishing my A-levels (Further Maths, Physics, CS) and heading off to study Computer Science.
 
